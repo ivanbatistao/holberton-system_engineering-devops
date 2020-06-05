@@ -7,3 +7,6 @@ How to change permissions, owner and group of a file
 Why cant a normal user chown a file
 How to run a command with root privileges
 How to change user ID or become superuser
+
+* su betty
+Create a script that changes your user ID to betty
