@@ -1,0 +1,2 @@
+#!/bin/ban
+grep bin /etc/passwd | wc -l
